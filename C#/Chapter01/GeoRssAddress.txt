@@ -1,0 +1,1 @@
+ http://www.bgs.ac.uk/feeds/SchoolSeismology.xml

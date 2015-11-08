@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kish Island</name>
+    <Placemark>
+      <name>Kish Island</name>
+      <description>Kish island in Beautiful Persian Gulf</description>
+      <Point>
+        <coordinates>53.96575016905689,26.50243592677882,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

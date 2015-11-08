@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Simple Usage of Geolocation API </title>
+     <script type="text/javascript">
+if (navigator.geolocation) {navigator.geolocation.getCurrentPosition(getLocationCallback,errorCallback);
+        } else {
+            alert('Unfortunately your web browser does not support geolocation API.');
+        }
+
+        function getLocationCallback(location) {
+            var geospatialMessage = '';
+            geospatialMessage += "Your geographic location is:\n\n";
+            geospatialMessage += 'Latitude: ' + location.coords.latitude + "\n";
+            geospatialMessage += 'Longitude: ' + location.coords.longitude + "\n";
+            alert(geospatialMessage);
+        }
+
+        function errorCallback(error) {
+            alert("something wrong !");
+        }
+    </script>
+</head>
+<body></body>
+</html>

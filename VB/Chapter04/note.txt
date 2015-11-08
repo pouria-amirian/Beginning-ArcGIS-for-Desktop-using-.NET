@@ -1,0 +1,1 @@
+You must have a write premission in order to execute these code samples(CreatingTxt, KML and KMZ will create files in C:\).

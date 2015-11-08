@@ -1,0 +1,2 @@
+ http://ogi.state.ok.us/geoserver/wfs?
+VERSION=1.1.0&REQUEST=GetFeature&TYPENAME=okcounties

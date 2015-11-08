@@ -1,0 +1,1 @@
+http://webservices.nationalatlas.gov/wms?SERVICE=WMS&REQUEST=GetMap&VERSION=1.1.1&FORMAT=PNG&WIDTH=600&HEIGHT=425&SRS=EPSG:4326&BBOX=-170,20,-65,85&LAYERS=states,farm_1

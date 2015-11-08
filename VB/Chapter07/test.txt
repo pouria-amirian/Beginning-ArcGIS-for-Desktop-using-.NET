@@ -1,0 +1,5 @@
+Name, Population, area, x,y, xxxxxx,aaa,dddd
+New York, 16500000, 1210, -74.0999, 40.7500,yyyyyy, 12, 8/8/1388
+Tokyo, 23650000, 2187, 139.8092, 35.6830, zzzzzzzz, 13, 5/5/1982
+Berlin, 5100000, 892, 13.3276, 52.5163,aaaaaa,14, 9/8/1984
+Paris, 10000000, 105, 2.4328, 48.8815, bbbbbb bbbbb, 15, 7/11/2011
