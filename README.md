@@ -11,7 +11,9 @@ It is recommended that you walk through the exercises from start to finish and u
 In order to run the code samples you need to perform the following in Visual Studio (after unzipping each zip file): 
 
 1.Check the version of ArcGIS in the configuration file for Desktop Add-Ins (Config.esriaddinx file)
+
 2.Check/set the installation path of ArcMap (or ArcCatalog) in Debug tab of project properties (for both Desktop Add-ins and Extending ArcObjects project)
+
 3.Check/set the Esri References
 
 You can find step by step instruction in readme.pdf file.
